@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 <hr>
 I'm Mahyar Behzadi from Tehran, Iran.
-
-<img src="https://github.com/MahyarNV/MahyarNV/blob/main/media/working.jpg"/>
-
+<div align="center">
+<img src="https://github.com/MahyarNV/MahyarNV/blob/8b4377c2c701de28e992f90b1d8d60c84af61aed/media/working.jpg" width="900" />
+</div>
 - 🔭 I’m currently working on ...
