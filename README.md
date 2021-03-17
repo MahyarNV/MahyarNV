@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <hr>
 I'm Mahyar Behzadi from Tehran, Iran.
 <div align="center">
-<img src="https://github.com/MahyarNV/MahyarNV/blob/8b4377c2c701de28e992f90b1d8d60c84af61aed/media/working.jpg" width="900" />
+<img src="https://github.com/MahyarNV/MahyarNV/blob/8b4377c2c701de28e992f90b1d8d60c84af61aed/media/working.jpg" height="400" />
 </div>
 - 🔭 I’m currently working on ...
