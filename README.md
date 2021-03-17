@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 <!--
 **MahyarNV/MahyarNV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![CautiousNV][1.1]][1]
+[![MahyarNV][2.1]][2] 
+
+[1.1]: http://i.imgur.com/wWzX9uB.png  (twitter icon with padding)
+[1]: https://twitter.com/CautiousNV
+[2.1]: http://i.imgur.com/fep1WsG.png
+[2]: https://www.facebook.com/MahyarNV/
+
+<hr>
