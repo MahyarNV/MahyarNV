@@ -1,4 +1,4 @@
-### Hey 👋
+### Mahyar Behzadi
 
 <hr>
 <div align="center">
@@ -10,14 +10,17 @@
 <br>
 
 ```java
-public class Mahyar {
+public class MahyarNV {
+    public static String[] activities = {
+            "Coding",
+            "Reading books",
+            "Learning",
+            "Drinking Coffee"
+    };
     public static void main(String[] args) {
-        String[] activities = {
-                "Coding",
-                "Reading books",
-                "Learning",
-                "Drinking Coffee"
-        };
+        for (String act: activities) {
+            System.out.println(act);
+        }
     }
 }
 ```
