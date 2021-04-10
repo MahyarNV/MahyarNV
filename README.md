@@ -9,7 +9,9 @@
 </div>
 <br>
 
-<img src="https://github.com/MahyarNV/MahyarNV/blob/main/media/weeeed200px.gif">
+<div align="center">
+  <img src="https://github.com/MahyarNV/MahyarNV/blob/main/media/weeeed200px.gif" height="100px" width="100px">
+</div>
 
 ```java
 public class MahyarNV {
