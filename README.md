@@ -9,10 +9,20 @@
 </div>
 <hr>
 <br>
-<div align="center">
-<img src="https://github.com/MahyarNV/MahyarNV/blob/8b4377c2c701de28e992f90b1d8d60c84af61aed/media/working.jpg" height="400" />
-</div>
+
+```java
+public class Mahyar {
+    public static void main(String[] args) {
+        String[] activities = {
+                "Coding",
+                "Reading books",
+                "Learning",
+                "Drinking Coffee"
+        };
+    }
+}
+```
+
 <br>
 
-- 🔭 I’m currently working on my skills 😉
 - 📫 How to reach me: <a href="mailto:mahyarbhz@gmail.com">Mail me</a> 📨
