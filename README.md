@@ -7,7 +7,6 @@
   <a href="https://twitter.com/CautiousNV"><img src='https://img.shields.io/badge/Twitter-333?logo=twitter' alt='' /></a>
   <a href="https://www.sololearn.com/profile/21493828"><img src='https://img.shields.io/badge/Sololearn-333?logo=sololearn' alt='' /></a>
 </div>
-<hr>
 <br>
 
 ```java
