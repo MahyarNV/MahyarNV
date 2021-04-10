@@ -1,4 +1,4 @@
-### Mahyar Behzadi <img src="https://github.com/MahyarNV/MahyarNV/blob/main/media/weeeed1479.gif" height="50px" width="50px">
+### Mahyar Behzadi <img src="https://github.com/MahyarNV/MahyarNV/blob/main/media/weeeed1479.gif" height="30px" width="30px">
 
 <hr>
 <div align="center">
