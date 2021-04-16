@@ -28,7 +28,3 @@ public class MahyarNV {
     }
 }
 ```
-
-<br>
-
-<img src="https://github.com/MahyarNV/MahyarNV/blob/main/media/weeder1.gif" height="20px" width="20px"> 📫 How to reach me: <a href="mailto:mahyarbhz@gmail.com">Mail me</a> 📨
