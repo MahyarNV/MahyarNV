@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/MahyarNV/MahyarNV/blob/main/media/weeeed200px.gif" height="100px" width="100px">
+  <img src="https://github.com/MahyarNV/MahyarNV/blob/main/media/weeder2.gif" height="100px" width="100px">
 </div>
 
 ```java
