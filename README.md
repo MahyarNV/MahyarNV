@@ -1,5 +1,5 @@
-### Mahyar Behzadi
-
+## Hello! This is Mahyar Behzadi
+### a simple web developer... 🎨
 <hr>
 <div align="center">
   <a href="https://discord.com/invite/aHXATxBuAh"><img src='https://img.shields.io/badge/Discord-333?logo=discord' alt='' /></a>
@@ -24,3 +24,17 @@ public class MahyarNV {
     }
 }
 ```
+
+## What's other about me?
+
+<details>
+<summary>Links 🔗</summary>
+
+<a href="https://open.spotify.com/user/4dacsxdn159mkuupzcpji5h8a?si=48c2b86c310844fd"><img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white' alt='' /></a>
+<a href="https://t.me/mahyar_bhz"><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='' /></a>
+<a href="mailto:mahyarbhz@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='' /></a>
+<a href="https://discord.com/invite/aHXATxBuAh"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt='' /></a>
+
+And here is my personal website... <a href="https://mahyarbhz.ir">Click on me!</a>
+
+</details>
