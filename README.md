@@ -17,7 +17,7 @@ public class MahyarNV {
 }
 ```
 
-## What's other about me?
+## What else about me?
 
 <details>
 <summary>Links 🔗</summary>
