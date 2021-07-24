@@ -29,7 +29,7 @@ public class MahyarNV {
 
 <details>
 <summary>Links 🔗</summary>
-
+<br/>
 <a href="https://open.spotify.com/user/4dacsxdn159mkuupzcpji5h8a?si=48c2b86c310844fd"><img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white' alt='' /></a>
 <a href="https://twitter.com/CautiousNV"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='' /></a>
 
@@ -43,7 +43,6 @@ public class MahyarNV {
 And here is my personal website... <a href="https://mahyarbhz.ir">Click on me!</a>
 
 </details>
-
 <details>
 <summary>Skills 🚀</summary>
 
@@ -69,5 +68,19 @@ And here is my personal website... <a href="https://mahyarbhz.ir">Click on me!</
 <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' alt='' />
 <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' alt='' />
 <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='' />
+
+</details>
+<details>
+<summary>I Use ⚡</summary>
+
+#### My OS
+
+<img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='' />
+
+#### I usually learn from
+
+<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='' />
+<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='' />
+<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' alt='' />
 
 </details>
