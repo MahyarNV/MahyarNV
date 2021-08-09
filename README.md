@@ -77,4 +77,4 @@ And here is my personal website... <a href="https://mahyarbhz.ir">Click on me!</
 
 </details>
 
-> "Programming lags code runner!"
+> Programming lags code runner!
