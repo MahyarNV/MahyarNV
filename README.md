@@ -76,3 +76,5 @@ And here is my personal website... <a href="https://mahyarbhz.ir">Click on me!</
 <img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' alt='' />
 
 </details>
+
+"Programming lags code runner!"
