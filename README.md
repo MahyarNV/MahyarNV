@@ -17,7 +17,7 @@ public class MahyarNV {
 }
 ```
     
-![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=issues&theme=prussian)
+![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=contribs,prs&theme=prussian)
     
 
 
