@@ -16,8 +16,9 @@ public class MahyarNV {
     }
 }
 ```
+<center>
 ![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=issues)
-
+</center>
 ## What else about me?
 
 <details>
