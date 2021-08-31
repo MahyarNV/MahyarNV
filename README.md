@@ -17,11 +17,11 @@ public class MahyarNV {
 }
 ```
 
-<center>
+<div style="diplay:flex;justify-content:center;">
     
 ![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=issues)
     
-</center>
+</div>
 
 ## What else about me?
 
