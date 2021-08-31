@@ -16,6 +16,7 @@ public class MahyarNV {
     }
 }
 ```
+![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=issues)
 
 ## What else about me?
 
