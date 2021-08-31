@@ -16,12 +16,10 @@ public class MahyarNV {
     }
 }
 ```
+    
+![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=issues&theme=prussian)
+    
 
-<div style="diplay:flex;justify-content:center;">
-    
-![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=issues)
-    
-</div>
 
 ## What else about me?
 
