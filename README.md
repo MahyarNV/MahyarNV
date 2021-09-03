@@ -4,6 +4,7 @@
 ```javascript
 let Mahyar = {
     bio: "I'm the green sun on the field.",
+    title: "Full Stack Developer",
     activities: ["Coding", "Reading books", "Writing", "Drinking coffee"],
     langs: ["PHP", "Python", "Javascript", "C"],
     technologies: {
