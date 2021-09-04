@@ -14,9 +14,9 @@ let Mahyar = {
 }
 ```
 <p align="center">
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MahyarNV&theme=vue-dark)](https://git.io/streak-stats)
-    
+    <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=MahyarNV&theme=vue-dark" alt="Mahyar's GitHub Streak" />
+    </a>
 </p>
    
 [![Mahyar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarnv&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
