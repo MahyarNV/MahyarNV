@@ -18,6 +18,15 @@ let Mahyar = {
         <img src="http://github-readme-streak-stats.herokuapp.com?user=MahyarNV&theme=vue-dark" alt="Mahyar's GitHub Streak" />
     </a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarnv&layout=compact&theme=prussian" alt="Mahyar's Top Langs" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=contribs,prs&theme=prussian" alt="Mahyar's GitHub stats" />
+    </a>
+</p>
    
 [![Mahyar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarnv&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 [![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=contribs,prs&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
