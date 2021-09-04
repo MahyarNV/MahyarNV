@@ -21,11 +21,11 @@ let Mahyar = {
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarnv&layout=compact&theme=prussian" alt="Mahyar's Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=contribs,prs&theme=prussian" alt="Mahyar's GitHub stats" />
     </a>
     <br />
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=contribs,prs&theme=prussian" alt="Mahyar's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarnv&layout=compact&theme=prussian" alt="Mahyar's Top Langs" />
     </a>
 </p>
  
