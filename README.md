@@ -22,7 +22,7 @@ let Mahyar = {
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=contribs,prs&theme=vue-dark" alt="Mahyar's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mahyarnv&hide=contribs&theme=vue-dark" alt="Mahyar's GitHub stats" />
     </a>
 </p>
 
