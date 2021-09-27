@@ -28,7 +28,7 @@ let Mahyar = {
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarnv&layout=compact&theme=vue-dark" alt="Mahyar's Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarnv&hide=css&layout=compact&theme=vue-dark" alt="Mahyar's Top Langs" />
     </a>
 </p>
  
