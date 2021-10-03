@@ -10,7 +10,7 @@ let Mahyar = {
     langs: ["PHP", "Python", "Javascript", "C"],
     technologies: {
         backEnd: ["Laravel", "Node.js", "Express.js"],
-        frontEnd: ["Vue.js"]
+        frontEnd: ["Vue.js", "Nuxt.js"]
     }
 }
 ```
