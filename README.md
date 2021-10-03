@@ -6,7 +6,7 @@
 let Mahyar = {
     bio: "I'm the green sun on the field.",
     title: "Full Stack Developer",
-    activities: ["Coding", "Reading books", "Writing", "Drinking coffee"],
+    activities: ["Coding", "Reading books", "Writing", "Stirring coffee"],
     langs: ["PHP", "Python", "Javascript", "C"],
     technologies: {
         backEnd: ["Laravel", "Node.js", "Express.js"],
