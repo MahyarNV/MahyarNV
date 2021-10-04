@@ -3,7 +3,7 @@
 *A simple web developer... 🎨*
 
 ```javascript
-let Mahyar = {
+let data = {
     bio: "I'm the green sun on the field.",
     title: "Full Stack Developer",
     hobbies: ["Coding", "Reading books", "Writing", "Stirring coffee"],
@@ -13,6 +13,7 @@ let Mahyar = {
         frontEnd: ["Vue.js", "Nuxt.js"]
     }
 }
+let Mahyar = new Programmer(data);
 ```
 <p align="center">
     <a href="https://git.io/streak-stats">
