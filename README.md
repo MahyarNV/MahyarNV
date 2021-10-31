@@ -1,6 +1,6 @@
-# Hello! This is Mahyar Behzadi
+# G’day!
 
-*A simple web developer... 🎨*
+*Mahyar Behzadi, a simple web developer... 🎨*
 
 ```javascript
 let data = {
