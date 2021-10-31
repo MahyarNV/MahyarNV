@@ -1,6 +1,6 @@
 # G’day!
 
-*Mahyar Behzadi, a simple web developer... 🎨*
+*Mahyar Behzadi, a simple fullstack developer... 🎨*
 
 ```javascript
 let data = {
