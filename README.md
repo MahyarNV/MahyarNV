@@ -49,6 +49,8 @@ let Mahyar = new Programmer(data);
 <a href="https://discord.com/invite/aHXATxBuAh"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' /></a>
 
 And here is my personal website... <a href="https://mahyarbhz.ir">Click on me!</a>
+    
+![](https://komarev.com/ghpvc/?username=MahyarNV&style=flat-square)
 
 </details>
 <details>
