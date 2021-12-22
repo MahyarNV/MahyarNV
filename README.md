@@ -66,6 +66,8 @@ And here is my personal website... <a href="https://mahyarbhz.ir">Click on me!</
 
 <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white' alt='Laravel' />
 <img src='https://img.shields.io/badge/Vue.js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=white' alt='Vue.js' />
+    
+    
 <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='TailwindCSS' />
 
 #### I'm newbie at
