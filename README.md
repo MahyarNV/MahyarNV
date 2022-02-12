@@ -1,4 +1,4 @@
-*a simple full stack developer... 🎨*
+*A programmer who loves literature... 🎨*
 
 ```javascript
 let data = {
